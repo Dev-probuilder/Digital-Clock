@@ -10,27 +10,29 @@ A simple Flask-based digital clock with light/dark theme support.
 ## Installation
 
 1. **Clone the repository:**
+    ```sh
    git clone https://github.com/yourusername/flask_digital_clock.git
    cd flask_digital_clock
+      ```
    
 
-2. **Create a virtual environment (optional but recommended):**
+3. **Create a virtual environment (optional but recommended):**
    ```sh
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
 
-3. **Install dependencies:**
+4. **Install dependencies:**
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Run the application:**
+5. **Run the application:**
    ```sh
    python app.py
    ```
 
-5. **Open in browser:**
+6. **Open in browser:**
    Go to `http://127.0.0.1:5000/`
 
 ## Project Structure
